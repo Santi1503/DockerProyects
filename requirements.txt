@@ -1,0 +1,12 @@
+numpy
+multiprocess
+scipy
+requests
+python-time
+pyttsx3
+opencv-python
+matplotlib
+tensorflow
+pillow
+pygame
+random2
